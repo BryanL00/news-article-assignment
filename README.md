@@ -2,8 +2,6 @@
 
 A full-stack CRUD web application for managing news articles, built with React and TypeScript.
 
-![Display Page Design](sample-display-page-design.png)
-
 ## Tech Stack
 
 | Layer | Technology |
