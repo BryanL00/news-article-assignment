@@ -1,3 +1,25 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "title": "Q&A: National Reconciliation Week 2026 – curriculum resources and making reconciliation meaningful",
+      "summary": "Just to test the edit",
+      "date": "2026-05-16",
+      "publisher": "Dominique Russell",
+      "id": 1
+    },
+    {
+      "title": "Inaugural Global Schools Prize winner announced",
+      "summary": "The winner of the inaugural Global Schools Prize has just been announced. Lebanon’s The Alsama Project – an education organisation supporting displaced Syrian and Palestinian teenagers to remain engaged in education – has taken home the US $500,000 in prize money to scale its impact globally.\n\nThe Global Schools Prize is an initiative of the Varkey Foundation that aims to recognise and celebrate the world’s most innovative and impactful schools that are reimagining education for the future. ",
+      "date": "2025-12-26",
+      "publisher": "Dominique Russell",
+      "id": 3
+    },
+    {
+      "title": "Classroom discussions – 5 structured routines to build student confidence",
+      "summary": "‘In classrooms, silence is often interpreted as lack of ability or confidence. But in many cases, it reflects a lack of safe, structured opportunities to participate.’  Manisha Pundir is an educator at a senior secondary residential school – VidyaGyan School in Sitapur, North India – where English is the medium of instruction but not students’ first language, as they come from diverse, rural educational backgrounds. In today’s reader submission, she explores 5 structured classroom routines that have helped build student confidence to participate in classroom discussions. \n\nIn my grade 6 classroom, discussions often follow a familiar pattern: a few confident students raise their hands and speak readily, while many others remain silent, avoid eye contact, or look down, hoping not to be called upon.\n\nFor several students, English is still unfamiliar territory. Many come from rural educational contexts where opportunities to practise spoken English have been limited, and speaking aloud feels like a risk rather than an opportunity.\n\nOver time, I have realised that asking students to ‘speak more’ is not the solution. What they need is structured opportunities to participate in ways that feel safe and manageable. Research on dialogic teaching suggests that structured participation can significantly improve student confidence, especially for language learners (Alexander, 2008).\n\nInstead of treating speaking as an occasional activity, I have been introducing small, repeatable routines into my classroom. I have come to think of them as rituals of voice.\n\nSince implementing these routines, I have begun to notice subtle changes. Students who had previously avoided speaking started contributing at least once during structured activities. Discussions became more balanced, and participation no longer depended on the same few voices.",
+      "date": "2026-05-13",
+      "publisher": "Manisha Pundir",
+      "id": 4
+    }
+  ]
 }
